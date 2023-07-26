@@ -9,7 +9,7 @@
             </div>
         </div>
 
-        <!-- 옷장에 옷 등록하기 모달창 소트트리 test-->
+        <!-- 옷장에 옷 등록하기 모달창 소트트리 test2-->
         <div class="modal-wrap-add" v-show="modalCheckAdd" @click="modalCloseAdd" id="modalWrapAdd">
             <!-- :class 동적 클래스 바인딩.. 조건에 따라 클래스를 동적으로 조작 -->
             <div class="modal-container-add" @click.stop="" id="containerAdd" :class="{ expanded: isExpanded }">
