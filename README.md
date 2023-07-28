@@ -17,6 +17,7 @@
 - [📥 Installation](#-installation)
 <br>
 
+#
 ### 👔 Introduction
 - aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 - aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
@@ -24,36 +25,38 @@
 - aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 - aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 - aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+<br>
 
 ### 🤝 Team Member
-- aaa
-- aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-- aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-- aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-- aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-- aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-- aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-- aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+- 이주원
+- 봉선호
+- 문승미
+- 최예은
+- 손행원
+<br>
 
 ### 💻 Technologies Used
-- aaaaaaaaaaaaaaaaaaa
-- aaaaaaaaaaaaaaaaaaaaa
-- aaaaaaaaaaaaaaaaaaaaaaaaaaa
-- aaaaaaaaaaaaaaaaaaa
+#### 🎨 Front-End
+#### 📡 Back-End
+<br>
 
 ### 🔍 Features
 - aaaaaaaaaaaaaaaaaaaaa
 - aaaaaaaaaaaaaaaaaaaaaa
 - aaaaaaaaaaaaaaaaaaaaaaa
 - aaaaaaaaaaaaaaaaaaa
+<br>
 
 ### 📸 Screenshots
 - aaaaaaaaaaaaaaaaaaa
 - aaaaaaaaaaaaaaaa
 - aaaaaaaaaaaaaa
+<br>
 
 ### 🛠️ Prerequisites
 - aaaaaaaaaaaaaaa
+<br>
 
 ### 📥 Installation
 - aaaaaaaaaaaaaaaaaa
+<br>
