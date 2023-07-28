@@ -80,6 +80,9 @@
 ### 📸 Screenshots
 - (Under construction)
 <br>
+[Weather]
+<img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/377618e7-c820-4055-94b4-15ae51bcca3b" width="80%">
+<br>
 
 ### 🛠 Prerequisites
 - (Under construction)
