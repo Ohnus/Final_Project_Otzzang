@@ -1,3 +1,4 @@
+<br>
 <div align="center">
 <img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/91cd377c-c4d2-4090-a29f-4ab1d3354cf8">
 </div>
@@ -13,8 +14,8 @@
 - [💻 Technologies Used](#-technologies-used)
 - [🔍 Features](#-features)
 - [📸 Screenshots](#-screenshots)
-- [ Prerequisites](#-prerequisites)
-- [📥 Installation](#-installation)
+- [🛠️ Prerequisites](#prerequisites)
+- [📥 Installation](#installation)
 <br>
 
 #
@@ -53,10 +54,10 @@
 - aaaaaaaaaaaaaa
 <br>
 
-### 🛠️ Prerequisites
+### 🛠️Prerequisites
 - aaaaaaaaaaaaaaa
 <br>
 
-### 📥 Installation
+### 📥Installation
 - aaaaaaaaaaaaaaaaaa
 <br>
