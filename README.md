@@ -13,7 +13,7 @@
 - [💻 Technologies Used](#-technologies-used)
 - [🔍 Features](#-features)
 - [📸 Screenshots](#-screenshots)
-- [🛠️ Prerequisites](#-prerequisites)
+- [🛠️ Prerequisites](#prerequisites)
 - [📥 Installation](#-installation)
 <br>
 
