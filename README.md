@@ -31,7 +31,7 @@
 ### 🤝 Team Members
 - 이주원
 - 봉선호: https://github.com/Ohnus
-- 문승미
+- 문승미: https://github.com/moonparks
 - 최예은: https://github.com/YeeBoss
 - 손행원
 <br>
