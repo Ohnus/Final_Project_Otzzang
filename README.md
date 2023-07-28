@@ -26,7 +26,7 @@
 - 프로젝트 목적: 해당 프로젝트는 KOSTA 257기 교육기간 중 진행된 파이널 프로젝트입니다. 교육기간 중 배운 JPA, REST API 기반 SpringBoot와 Vue.js 기술을 프로젝트에 도입함으로써 기술을 숙달하고, 기존 개발패턴이었던 jsp, handler, jQuery에서 새로운 개발패턴을 익히기 위해 진행된 프로젝트입니다.
 <br>
 
-### 🤝 Team Member
+### 🤝 Team Members
 - 이주원
 - 봉선호: https://github.com/Ohnus
 - 문승미
