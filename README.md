@@ -76,15 +76,13 @@
 <br>
 
 ### 📸 Screenshots
-- aaaaaaaaaaaaaaaaaaa
-- aaaaaaaaaaaaaaaa
-- aaaaaaaaaaaaaa
+- (Under construction)
 <br>
 
 ### 🛠️ Prerequisites
-- aaaaaaaaaaaaaaa
+- (Under construction)
 <br>
 
 ### 📥 Installation
-- aaaaaaaaaaaaaaaaaa
+- (Under construction)
 <br>
