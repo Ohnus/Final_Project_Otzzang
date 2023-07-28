@@ -9,13 +9,13 @@
 <br>
 
 ## 🗂️Table of Contents
-- [👔 Introduction](#-introduction)
-- [🤝 Team Member](#-team-member)
-- [💻 Technologies Used](#-technologies-used)
-- [🔍 Features](#-features)
-- [📸 Screenshots](#-screenshots)
-- [🛠️ Prerequisites](#prerequisites)
-- [📥 Installation](#installation)
+- [👔Introduction](#introduction)
+- [🤝Team Member](#team-member)
+- [💻Technologies Used](#technologies-used)
+- [🔍Features](#features)
+- [📸Screenshots](#screenshots)
+- [🛠️Prerequisites](#prerequisites)
+- [📥Installation](#installation)
 <br>
 
 #
