@@ -10,7 +10,7 @@
 
 ## 🗂️ Table of Contents
 - [👔 Introduction](#-introduction)
-- [🤝 Team Members](#-team-member)
+- [🤝 Team Members](#-team-members)
 - [💻 Technologies Used](#-technologies-used)
 - [🔍 Features](#-features)
 - [📸 Screenshots](#-screenshots)
