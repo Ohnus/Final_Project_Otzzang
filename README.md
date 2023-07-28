@@ -8,11 +8,16 @@
 <br>
 
 ## 🗂️Table of Contents
-> - [Introduction](#introduction)
-> - [Team Member](#team-member)
+- [👔 Introduction](#-introduction)
+- [🤝 Team Member](#-team-member)
+- [💻 Technologies Used](#-technologies-used)
+- [🔍 Features](#-features)
+- [📸 Screenshots](#-screenshots)
+- [🛠️ Prerequisites](#-prerequisites)
+- [📥 Installation](#-installation)
 <br>
 
-## Introduction
+### 👔 Introduction
 - aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 - aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 - aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
@@ -20,7 +25,7 @@
 - aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 - aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 
-## Team Member
+### 🤝 Team Member
 - aaa
 - aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 - aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
@@ -29,3 +34,26 @@
 - aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 - aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 - aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+### 💻 Technologies Used
+- aaaaaaaaaaaaaaaaaaa
+- aaaaaaaaaaaaaaaaaaaaa
+- aaaaaaaaaaaaaaaaaaaaaaaaaaa
+- aaaaaaaaaaaaaaaaaaa
+
+### 🔍 Features
+- aaaaaaaaaaaaaaaaaaaaa
+- aaaaaaaaaaaaaaaaaaaaaa
+- aaaaaaaaaaaaaaaaaaaaaaa
+- aaaaaaaaaaaaaaaaaaa
+
+### 📸 Screenshots
+- aaaaaaaaaaaaaaaaaaa
+- aaaaaaaaaaaaaaaa
+- aaaaaaaaaaaaaa
+
+### 🛠️ Prerequisites
+- aaaaaaaaaaaaaaa
+
+### 📥 Installation
+- aaaaaaaaaaaaaaaaaa
