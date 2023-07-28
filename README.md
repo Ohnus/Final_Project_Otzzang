@@ -14,7 +14,7 @@
 - [💻 Technologies Used](#-technologies-used)
 - [🔍 Features](#-features)
 - [📸 Screenshots](#-screenshots)
-- [🛠️ Prerequisites](#-prerequisites)
+- [🛠 Prerequisites](#-prerequisites)
 - [📥 Installation](#-installation)
 <br>
 
@@ -79,7 +79,7 @@
 - (Under construction)
 <br>
 
-### 🛠️ Prerequisites
+### 🛠 Prerequisites
 - (Under construction)
 <br>
 
