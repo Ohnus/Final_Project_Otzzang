@@ -78,8 +78,25 @@
 <br>
 
 ### 📸 Screenshots
+<h4>[Main]</h4><br>
+<img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/a84cbfe0-a86d-4d6d-b4dc-4a9dc55ec83e" width="80%">
+<h4>[Member]</h4><br>
+<img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/b43a1c02-d8b6-4ae1-b5f7-84d792eef37a" width="22%">
+<img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/088526e9-f5dc-4ba8-87a1-9e9a14a9c791" width="22%">
+<img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/15d2a6a4-9e36-4834-b4c6-acbfd73fa127" width="47%">
+<br>
+<img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/5862bd23-1969-4f2d-9f8e-f01edb52288f" width="30%">
+<img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/23145c20-b146-4456-bd87-c8c93a8ad86c" width="30%">
+<img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/f397f763-570c-4183-961d-532054170b69" width="30%">
+
 <h4>[Weather]</h4><br>
+<img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/c67b6820-134e-4b3b-993e-2344db96243f" width="80%">
+<br>
 <img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/377618e7-c820-4055-94b4-15ae51bcca3b" width="80%">
+<h4>[Closet]</h4><br>
+<h4>[OOTW]</h4><br>
+<h4>[Coordi]</h4><br>
+<h4>[Battle]</h4><br>
 <br>
 
 ### 🛠 Prerequisites
