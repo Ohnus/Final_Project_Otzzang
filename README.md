@@ -80,6 +80,8 @@
 ### 📸 Screenshots
 <h4>[Main]</h4><br>
 <img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/a84cbfe0-a86d-4d6d-b4dc-4a9dc55ec83e" width="80%">
+<br>
+
 <h4>[Member]</h4><br>
 <img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/b43a1c02-d8b6-4ae1-b5f7-84d792eef37a" width="22%">
 <img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/088526e9-f5dc-4ba8-87a1-9e9a14a9c791" width="22%">
@@ -88,15 +90,54 @@
 <img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/5862bd23-1969-4f2d-9f8e-f01edb52288f" width="30%">
 <img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/23145c20-b146-4456-bd87-c8c93a8ad86c" width="30%">
 <img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/f397f763-570c-4183-961d-532054170b69" width="30%">
+<br>
+<img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/f83ffb6d-2728-44be-bbdb-29d3893e262c" width="60%">
 
 <h4>[Weather]</h4><br>
 <img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/c67b6820-134e-4b3b-993e-2344db96243f" width="80%">
 <br>
 <img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/377618e7-c820-4055-94b4-15ae51bcca3b" width="80%">
+<br>
+<img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/f9ef559a-e48d-414b-bb47-e4288c6d2f97" width="80%">
+<br>
+<img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/d4fb0d04-913e-4782-a4ba-c96c4a901d0d" width="80%">
+<br>
+<img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/9e436717-a959-4d93-916f-dc926ae1bb78" width="80%">
+<br>
+
 <h4>[Closet]</h4><br>
+<img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/94ff3fd4-5200-4fa8-b4e2-41882231b9c7" width="80%">
+<img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/1ceb115b-7788-40f4-8612-6d451760fadd" width="80%">
+<img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/b56c9c97-17b8-48dc-ba7e-739c409362ce" width="80%">
+<img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/97a2a8b1-c153-4563-9cc1-88def243fdef" width="80%">
+<br>
+
 <h4>[OOTW]</h4><br>
+<img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/b59313d9-600e-4b7a-92be-bb3d5824504b" width="80%">
+<img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/3615b5e8-e04f-4124-a42a-0d659be7663a" width="80%">
+<img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/f1a61fae-cdba-46e3-8bee-9626025ddaf8" width="80%">
+<img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/b19ba509-95a7-4ce9-9298-2cee43bba8ed" width="80%">
+<br>
+
 <h4>[Coordi]</h4><br>
+<img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/91829290-8e7b-416c-bfad-b62bee64758a" width="80%">
+<img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/41371115-911c-4f47-b674-e286b8f94103" width="80%">
+<img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/dba697c0-ad9c-4b53-a176-e24a25188e6f" width="80%">
+<img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/912aa5c1-1a47-49b2-bed1-e3943d2fde15" width="80%">
+<img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/f55c3a24-28a7-4eeb-850d-3a565ee155da" width="80%">
+<img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/40f3fe80-9554-4adc-a78d-0dd53d0ee3a1" width="80%">
+<img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/78255801-18ca-41a7-ac04-52369c08208f" width="80%">
+<img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/9c2fd952-5fc9-4c78-b920-d6b9406b3310" width="80%">
+<br>
+
 <h4>[Battle]</h4><br>
+<img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/7168ec13-0df2-4fc8-9b0b-de2f47ac6918" width="80%">
+<img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/bf0958d6-fb5a-4009-8640-6efd7008fd4f" width="80%">
+<img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/238b25da-edff-4e57-be47-1284945ae7ea" width="80%">
+<img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/d15df026-16f9-48bf-a787-316f7d3affe6" width="80%">
+<img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/619629ee-7d00-4783-bbdf-762795160611" width="80%">
+<img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/dd587e57-b329-45fc-959b-3633685be5cf" width="80%">
+<img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/75041d47-0c89-4600-b9c0-0712d340147c" width="80%">
 <br>
 
 ### 🛠 Prerequisites
