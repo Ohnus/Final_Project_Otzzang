@@ -67,7 +67,12 @@
 > - 날짜, 기온, 키워드로 작성된 게시글 검색하여 리스트 필터링
 > - 옷장에 등록된 옷이 삭제되면 해당 옷이 등록된 모든 OOTW 게시글 자동 삭제 기능
 #### 4. Outfit Coordination Board Part
-> - 
+> - 내가 입었던 코디 사진 최대 3장까지 첨부하여 게시글 등록
+> - 전체 리스트 최신 순서로 정렬
+> - 유저, 태그(키워드) 검색하여 리스트 필터링
+> - 좋아요 누적 기능 및 북마크로 게시글 저장 기능
+> - 게시판 목적에 맞지 않는 게시글 신고하기 기능
+> - 신고된 게시글 즉시 숨김 기능
 #### 5. Battle Board Part
 > - 매주 새로운 테마로 진행되는 테마에 맞는 코디 배틀 게시판
 > - 금, 토, 일요일은 관리자에 의해 선정된 배틀 테마로 유저들이 테마에 맞는 코디 사진을 첨부하여 배틀 신청
@@ -78,22 +83,32 @@
 <br>
 
 ### 📸 Screenshots
-<h4>[Main]</h4><br>
+<h4>[Main]</h4>
+
+- Otzzang의 메인 화면
 <img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/a84cbfe0-a86d-4d6d-b4dc-4a9dc55ec83e" width="80%">
 <br>
 
-<h4>[Member]</h4><br>
+<h4>[Member]</h4>
+
+- 정규표현식을 이용한 회원가입 및 본인 인증을 위한 이메일 인증 기능
 <img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/b43a1c02-d8b6-4ae1-b5f7-84d792eef37a" width="22%">
 <img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/088526e9-f5dc-4ba8-87a1-9e9a14a9c791" width="22%">
 <img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/15d2a6a4-9e36-4834-b4c6-acbfd73fa127" width="47%">
-<br>
+<br><br>
+
+- 로그인 화면 & 아이디, 비밀번호 찾기 기능
 <img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/5862bd23-1969-4f2d-9f8e-f01edb52288f" width="30%">
-<img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/23145c20-b146-4456-bd87-c8c93a8ad86c" width="30%">
 <img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/f397f763-570c-4183-961d-532054170b69" width="30%">
-<br>
+<img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/7a0c5c29-9ad2-41c0-b602-ca1074956498" width="30%">
+<br><br>
+
+- 프로필 수정 화면
 <img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/f83ffb6d-2728-44be-bbdb-29d3893e262c" width="60%">
 
-<h4>[Weather]</h4><br>
+<h4>[Weather]</h4>
+
+- ㅁㅁ
 <img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/c67b6820-134e-4b3b-993e-2344db96243f" width="80%">
 <br>
 <img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/377618e7-c820-4055-94b4-15ae51bcca3b" width="80%">
