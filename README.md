@@ -122,7 +122,7 @@
 <h4>[Coordi]</h4><br>
 <img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/91829290-8e7b-416c-bfad-b62bee64758a" width="80%">
 <img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/41371115-911c-4f47-b674-e286b8f94103" width="80%">
-<img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/dba697c0-ad9c-4b53-a176-e24a25188e6f" width="80%">
+<img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/275de3dc-0ff5-4e59-bc56-0221b2c5bd9b" width="80%">
 <img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/912aa5c1-1a47-49b2-bed1-e3943d2fde15" width="80%">
 <img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/f55c3a24-28a7-4eeb-850d-3a565ee155da" width="80%">
 <img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/40f3fe80-9554-4adc-a78d-0dd53d0ee3a1" width="80%">
