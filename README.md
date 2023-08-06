@@ -108,50 +108,121 @@
 
 <h4>[Weather]</h4>
 
-- ㅁㅁ
+- 기상청, 한국천문연구원 API를 통해 24시간 기상정보 호출
 <img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/c67b6820-134e-4b3b-993e-2344db96243f" width="80%">
 <br>
 <img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/377618e7-c820-4055-94b4-15ae51bcca3b" width="80%">
 <br>
+
+- 현재 위치의 현재 기온에 맞는 옷차림을 나의 옷장에서 추천해주기
 <img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/f9ef559a-e48d-414b-bb47-e4288c6d2f97" width="80%">
 <br>
+
+- 옷장이 비어있으면 옷장 등록 페이지 또는 해당 카테코리 쇼핑 추천
 <img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/d4fb0d04-913e-4782-a4ba-c96c4a901d0d" width="80%">
 <br>
+
+- 현재의 날씨와 비슷한 날에 입었던 코디를 나의 OOTW 게시판에서 추천해주기
 <img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/9e436717-a959-4d93-916f-dc926ae1bb78" width="80%">
 <br>
 
 <h4>[Closet]</h4><br>
+
+- 즐겨찾기, 최신 등록순으로 보여주는 나의 옷장 리스트
 <img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/94ff3fd4-5200-4fa8-b4e2-41882231b9c7" width="80%">
+<br>
+
+- 메뉴바의 카테고리를 클릭하여 필터해서 리스트 보여주기
 <img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/1ceb115b-7788-40f4-8612-6d451760fadd" width="80%">
+<br>
+
+- 이미지 drag&drop을 통해 옷장에 옷 사진 첨부하기
 <img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/b56c9c97-17b8-48dc-ba7e-739c409362ce" width="80%">
+<br>
+
+- 옷 사진 첨부한 후 기타 정보 입력하여 옷장에 내 옷 등록하기
 <img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/97a2a8b1-c153-4563-9cc1-88def243fdef" width="80%">
 <br>
 
 <h4>[OOTW]</h4><br>
+
+- OOTW 게시판 리스트 최신 날짜 순으로 보여주기
 <img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/b59313d9-600e-4b7a-92be-bb3d5824504b" width="80%">
+<br>
+
+- OOTW 게시글 등록 폼, 이미지 추가 박스를 클릭하면 옷장에 등록된 옷을 보여주는 모달창을 띄움
 <img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/3615b5e8-e04f-4124-a42a-0d659be7663a" width="80%">
+<br>
+
+- 나의 옷장에 등록된 옷을 보여주는 모달창, 해당 화면에서 내가 입었던 옷을 추가할 수 있음
 <img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/f1a61fae-cdba-46e3-8bee-9626025ddaf8" width="80%">
+<br>
+
+- 입었던 옷을 추가하고 기타 정보를 입력하여 OOTW 게시글 등록하기기
 <img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/b19ba509-95a7-4ce9-9298-2cee43bba8ed" width="80%">
 <br>
 
 <h4>[Coordi]</h4><br>
+
+- 코디 게시판 리스트, 좋아요 및 북마크 기능이 있으며 유저 또는 태그로 게시글 검색이 가능함
 <img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/91829290-8e7b-416c-bfad-b62bee64758a" width="80%">
+<br>
+
+- 코디 게시글 등록 폼, 클립 이미지를 클릭하여 이미지 첨부하기
 <img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/41371115-911c-4f47-b674-e286b8f94103" width="80%">
+<br>
+
+- 이미지를 첨부하고,
 <img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/275de3dc-0ff5-4e59-bc56-0221b2c5bd9b" width="80%">
+<br>
+
+- 태그를 남겨 게시글 등록하기
 <img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/912aa5c1-1a47-49b2-bed1-e3943d2fde15" width="80%">
+<br>
+
+- 게시판 성격에 맞지 않는 게시글이 등록되면 신고를 할 수 있음
 <img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/f55c3a24-28a7-4eeb-850d-3a565ee155da" width="80%">
+<br>
+
+- 적절한 신고 카테고리를 선택하여 신고하기
 <img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/40f3fe80-9554-4adc-a78d-0dd53d0ee3a1" width="80%">
+<br>
+
+- 관리자는 신고받은 게시글을 확인할 수 있음
 <img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/78255801-18ca-41a7-ac04-52369c08208f" width="80%">
+<br>
+
+- 관리자가 신고받은 게시글의 사유를 판단하여 삭제 또는 복구
 <img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/9c2fd952-5fc9-4c78-b920-d6b9406b3310" width="80%">
 <br>
 
 <h4>[Battle]</h4><br>
+
+- 명예의 전당 게시판에서 배틀에 대한 설명을 모달창으로 볼 수 있음
 <img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/7168ec13-0df2-4fc8-9b0b-de2f47ac6918" width="80%">
+<br>
+
+- 금요일 오전 10시 전, 관리자가 배틀 테마를 선정하기 전에 보여주는 화면
 <img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/bf0958d6-fb5a-4009-8640-6efd7008fd4f" width="80%">
+<br>
+
+- 관리자가 테마 선정 후 유저들이 테마에 맞는 코디 사진을 첨부하여 배틀을 신청하는 화면
 <img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/238b25da-edff-4e57-be47-1284945ae7ea" width="80%">
+<br>
+
+- 만약 배틀 신청자가 없다면 그 주의 배틀은 넘어감
 <img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/d15df026-16f9-48bf-a787-316f7d3affe6" width="80%">
+<br>
+
+- 신청자가 있다면 관리자가 랜덤으로 후보를 2명 선정, 선정된 후보들은 유저들의 투표를 받게 됨
 <img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/619629ee-7d00-4783-bbdf-762795160611" width="80%">
+<br>
+
+- 목요일에 투표가 자동 집계되어 우승자가 선정됨, 우승자는 이 주의 우승자 게시판에 노출됨
 <img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/dd587e57-b329-45fc-959b-3633685be5cf" width="80%">
+<br>
+
+- 역대 우승자들은 명예의 전당 게시판에 등록록
 <img src="https://github.com/Ohnus/Final_Project_Otzzang/assets/88930889/75041d47-0c89-4600-b9c0-0712d340147c" width="80%">
 <br>
 
